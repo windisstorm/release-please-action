@@ -1,0 +1,3 @@
+[submodule "release-please"]
+	path = release-please
+	url = git@github.com:windisstorm/release-please.git
